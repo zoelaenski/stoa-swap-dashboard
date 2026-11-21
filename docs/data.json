@@ -1,10 +1,10 @@
 {
- "generatedAt": "2026-11-20T22:27:05.185Z",
+ "generatedAt": "2026-11-21T03:00:39.529Z",
  "chainId": 4663,
  "router": "0x2f2804fad735a38015650f32f95ad5e08d6b3ee5",
  "feeContract": "0x76c30317bb8c0bc47e2ac5d83b329fe9f386f4e7",
  "fromBlock": 114000000,
- "indexedToBlock": 119404040,
+ "indexedToBlock": 119555111,
  "explorer": "https://robinhoodchain.blockscout.com",
  "excludedTraders": [],
  "tokens": {
