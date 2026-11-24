@@ -1,10 +1,10 @@
 {
- "generatedAt": "2026-11-24T05:42:51.525Z",
+ "generatedAt": "2026-11-24T16:53:27.506Z",
  "chainId": 4663,
  "router": "0x2f2804fad735a38015650f32f95ad5e08d6b3ee5",
  "feeContract": "0x76c30317bb8c0bc47e2ac5d83b329fe9f386f4e7",
  "fromBlock": 114000000,
- "indexedToBlock": 121997802,
+ "indexedToBlock": 122379520,
  "explorer": "https://robinhoodchain.blockscout.com",
  "excludedTraders": [],
  "tokens": {
@@ -1048,6 +1048,66 @@
     }
    ],
    "usd": 0.756714,
+   "usdBasis": "USDG"
+  },
+  {
+   "id": "0x37b045b4ad154a83d5cdfa1348fdd3957c08fdf999cdcbb36b2309824f4ae7e4:19",
+   "hash": "0x37b045b4ad154a83d5cdfa1348fdd3957c08fdf999cdcbb36b2309824f4ae7e4",
+   "block": 122352646,
+   "time": 1795536494,
+   "trader": "0xad44de6f62a0386edc53fb66ead6f4f61b7014ee",
+   "recipient": "0xad44de6f62a0386edc53fb66ead6f4f61b7014ee",
+   "tokenIn": "0x5fc5360d0400a0fd4f2af552add042d716f1d168",
+   "tokenOut": "0x14c0a77e792f6c9818888630e95c50cf3b48c979",
+   "amountIn": 10,
+   "amountOut": 169464.547842658,
+   "fees": [
+    {
+     "token": "0x14c0a77e792f6c9818888630e95c50cf3b48c979",
+     "referrer": "0x0000000000000000000000000000000000000000",
+     "amount": 33.89968950643289,
+     "toReferrer": 0
+    }
+   ],
+   "venues": [
+    {
+     "address": "0x7615926023bb149f36095645c2a81dc367d39750",
+     "label": "V3-style pool 0x7615…9750"
+    },
+    {
+     "address": "0x8366a39cc670b4001a1121b8f6a443a643e40951",
+     "label": "Uniswap v4"
+    }
+   ],
+   "usd": 10,
+   "usdBasis": "USDG"
+  },
+  {
+   "id": "0x4e792db0018a653f2354b3ddf6c4c1bf6a84a59ee3ff7f40ba11b8bc9101442b:15",
+   "hash": "0x4e792db0018a653f2354b3ddf6c4c1bf6a84a59ee3ff7f40ba11b8bc9101442b",
+   "block": 122362924,
+   "time": 1795537525,
+   "trader": "0x229ba78c6390c35c2e6aa98ecfba692f0bcce50c",
+   "recipient": "0x229ba78c6390c35c2e6aa98ecfba692f0bcce50c",
+   "tokenIn": "0x5fc5360d0400a0fd4f2af552add042d716f1d168",
+   "tokenOut": "0x0000000000000000000000000000000000000000",
+   "amountIn": 30847.056651,
+   "amountOut": 18.3473671900474,
+   "fees": [
+    {
+     "token": "0x0bd7d308f8e1639fab988df18a8011f41eacad73",
+     "referrer": "0x0000000000000000000000000000000000000000",
+     "amount": 0.003670207479505381,
+     "toReferrer": 0
+    }
+   ],
+   "venues": [
+    {
+     "address": "0x52e65b17fb6e5ba00ed806f37afcd2daa50271ca",
+     "label": "V3-style pool 0x52e6…71ca"
+    }
+   ],
+   "usd": 30847.056651,
    "usdBasis": "USDG"
   }
  ]
