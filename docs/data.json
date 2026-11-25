@@ -1,10 +1,10 @@
 {
- "generatedAt": "2026-11-25T01:13:58.475Z",
+ "generatedAt": "2026-11-25T10:06:15.311Z",
  "chainId": 4663,
  "router": "0x2f2804fad735a38015650f32f95ad5e08d6b3ee5",
  "feeContract": "0x76c30317bb8c0bc47e2ac5d83b329fe9f386f4e7",
  "fromBlock": 114000000,
- "indexedToBlock": 122664635,
+ "indexedToBlock": 122960917,
  "explorer": "https://robinhoodchain.blockscout.com",
  "excludedTraders": [],
  "tokens": {
@@ -42,6 +42,10 @@
   },
   "0x14c0a77e792f6c9818888630e95c50cf3b48c979": {
    "symbol": "NOMAD",
+   "decimals": 18
+  },
+  "0xd0601ce157db5bdc3162bbac2a2c8af5320d9eec": {
+   "symbol": "NVDA",
    "decimals": 18
   }
  },
@@ -1108,6 +1112,34 @@
     }
    ],
    "usd": 30847.056651,
+   "usdBasis": "USDG"
+  },
+  {
+   "id": "0x35d2485fd9c7ea1e35fd7cc80bc27f2965b50db6f2c1cf6d39b60a2e4cda147f:13",
+   "hash": "0x35d2485fd9c7ea1e35fd7cc80bc27f2965b50db6f2c1cf6d39b60a2e4cda147f",
+   "block": 122724923,
+   "time": 1795575566,
+   "trader": "0x45d68ef76c78ae5b6f1154f03f031daf48a0a68d",
+   "recipient": "0x45d68ef76c78ae5b6f1154f03f031daf48a0a68d",
+   "tokenIn": "0xd0601ce157db5bdc3162bbac2a2c8af5320d9eec",
+   "tokenOut": "0x5fc5360d0400a0fd4f2af552add042d716f1d168",
+   "amountIn": 0.20249298026226037,
+   "amountOut": 30.599308,
+   "fees": [
+    {
+     "token": "0x5fc5360d0400a0fd4f2af552add042d716f1d168",
+     "referrer": "0x0000000000000000000000000000000000000000",
+     "amount": 0.006121,
+     "toReferrer": 0
+    }
+   ],
+   "venues": [
+    {
+     "address": "0xdac1904d823f7d6bcaaf431ceee40c934fed321b",
+     "label": "V3-style pool 0xdac1…321b"
+    }
+   ],
+   "usd": 30.599308,
    "usdBasis": "USDG"
   }
  ]
