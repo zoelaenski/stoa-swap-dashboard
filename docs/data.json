@@ -1,10 +1,10 @@
 {
- "generatedAt": "2026-11-26T12:01:46.401Z",
+ "generatedAt": "2026-11-26T21:48:02.775Z",
  "chainId": 4663,
  "router": "0x2f2804fad735a38015650f32f95ad5e08d6b3ee5",
  "feeContract": "0x76c30317bb8c0bc47e2ac5d83b329fe9f386f4e7",
  "fromBlock": 114000000,
- "indexedToBlock": 123602345,
+ "indexedToBlock": 123774413,
  "explorer": "https://robinhoodchain.blockscout.com",
  "excludedTraders": [],
  "tokens": {
@@ -1173,6 +1173,62 @@
    ],
    "usd": 4.628245,
    "usdBasis": "USDG"
+  },
+  {
+   "id": "0xb6adb42925485797b64e95d2307090024819de6e88ff0eb24adf1ad60743b638:31",
+   "hash": "0xb6adb42925485797b64e95d2307090024819de6e88ff0eb24adf1ad60743b638",
+   "block": 123661913,
+   "time": 1795711399,
+   "trader": "0x2eb53eba6f04447d9ce03b4afb421887239ae244",
+   "recipient": "0x2eb53eba6f04447d9ce03b4afb421887239ae244",
+   "tokenIn": "0x0bd7d308f8e1639fab988df18a8011f41eacad73",
+   "tokenOut": "0x13e6993417616de724f2b337d65063f229e96718",
+   "amountIn": 0.003687973963989888,
+   "amountOut": 215986.2118723826,
+   "fees": [
+    {
+     "token": "0x13e6993417616de724f2b337d65063f229e96718",
+     "referrer": "0x0000000000000000000000000000000000000000",
+     "amount": 43.20588355118676,
+     "toReferrer": 0
+    }
+   ],
+   "venues": [
+    {
+     "address": "0x8366a39cc670b4001a1121b8f6a443a643e40951",
+     "label": "Uniswap v4"
+    }
+   ],
+   "usd": 6.200515889621502,
+   "usdBasis": "ETH"
+  },
+  {
+   "id": "0x18c890449ec8105eb0947d72c4a4ca7826b4f5297d955e99045cff30c14aac14:11",
+   "hash": "0x18c890449ec8105eb0947d72c4a4ca7826b4f5297d955e99045cff30c14aac14",
+   "block": 123686781,
+   "time": 1795717716,
+   "trader": "0x8dac20c0fe1c59d337808f234921a89ee0c1346a",
+   "recipient": "0x8dac20c0fe1c59d337808f234921a89ee0c1346a",
+   "tokenIn": "0x0000000000000000000000000000000000000000",
+   "tokenOut": "0x13e6993417616de724f2b337d65063f229e96718",
+   "amountIn": 0.005,
+   "amountOut": 208319.3955961558,
+   "fees": [
+    {
+     "token": "0x13e6993417616de724f2b337d65063f229e96718",
+     "referrer": "0x0000000000000000000000000000000000000000",
+     "amount": 41.67221356194355,
+     "toReferrer": 0
+    }
+   ],
+   "venues": [
+    {
+     "address": "0x8366a39cc670b4001a1121b8f6a443a643e40951",
+     "label": "Uniswap v4"
+    }
+   ],
+   "usd": 8.406398676027235,
+   "usdBasis": "ETH"
   }
  ]
 }
