@@ -1,10 +1,10 @@
 {
- "generatedAt": "2026-11-27T13:25:57.040Z",
+ "generatedAt": "2026-11-27T22:13:17.594Z",
  "chainId": 4663,
  "router": "0x2f2804fad735a38015650f32f95ad5e08d6b3ee5",
  "feeContract": "0x76c30317bb8c0bc47e2ac5d83b329fe9f386f4e7",
  "fromBlock": 114000000,
- "indexedToBlock": 124281154,
+ "indexedToBlock": 124577349,
  "explorer": "https://robinhoodchain.blockscout.com",
  "excludedTraders": [],
  "tokens": {
@@ -1228,6 +1228,34 @@
     }
    ],
    "usd": 8.406398676027235,
+   "usdBasis": "ETH"
+  },
+  {
+   "id": "0x7c27f98c61779a12ed817627911c5471c858449b0b8a0632c9b4e23586071227:11",
+   "hash": "0x7c27f98c61779a12ed817627911c5471c858449b0b8a0632c9b4e23586071227",
+   "block": 124463150,
+   "time": 1795804957,
+   "trader": "0xe805a18c5ff890c93c36216aafdd906746c96e62",
+   "recipient": "0xe805a18c5ff890c93c36216aafdd906746c96e62",
+   "tokenIn": "0x0000000000000000000000000000000000000000",
+   "tokenOut": "0x13e6993417616de724f2b337d65063f229e96718",
+   "amountIn": 0.002114351798181934,
+   "amountOut": 140601.14432594023,
+   "fees": [
+    {
+     "token": "0x13e6993417616de724f2b337d65063f229e96718",
+     "referrer": "0x0000000000000000000000000000000000000000",
+     "amount": 28.125854035995243,
+     "toReferrer": 0
+    }
+   ],
+   "venues": [
+    {
+     "address": "0x8366a39cc670b4001a1121b8f6a443a643e40951",
+     "label": "Uniswap v4"
+    }
+   ],
+   "usd": 3.554816831378483,
    "usdBasis": "ETH"
   }
  ]
